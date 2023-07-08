@@ -17,7 +17,7 @@ Users should be able to:
 - Grid
 
 ## Demo
-You can view Demo [here](https://nisha-nish.github.io/3-column-preview-card-component/)
+You can view Demo [here](https://nisha-nish.github.io/NFT-preview-card-component/)
 
 ##
 
